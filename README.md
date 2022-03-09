@@ -36,9 +36,9 @@ npm run test
 👤 **QU35T-code**
 
 * Website: https://alexismrt.fr/
-* Twitter: [@https:\/\/twitter.com\/QU35T\_TV](https://twitter.com/https:\/\/twitter.com\/QU35T\_TV)
+* Twitter: [@QU35T\_TV](https:\/\/twitter.com\/QU35T\_TV)
 * Github: [@QU35T-code](https://github.com/QU35T-code)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/alexis-martin3190\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/alexis-martin3190\/)
+* LinkedIn: [@alexis-martin3190](https:\/\/www.linkedin.com\/in\/alexis-martin3190\/)
 
 ## Show your support
 
