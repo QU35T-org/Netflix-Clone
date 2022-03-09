@@ -11,7 +11,7 @@
 
 > This project is the clone of the Netflix website in React using styled-components.
 
-### ✨ [Demo](http://127.0.0.1:3000)
+### ✨ [Demo](https://qu35t-netflix-clone.herokuapp.com/)
 
 ## Install
 
