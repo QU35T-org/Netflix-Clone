@@ -25,6 +25,8 @@ export const Input = styled.input`
   @media (max-width: 1000px) {
     margin-top: 20px;
     height: 50px;
+    width: 100%;
+    max-width: initial;
 `;
 
 export const Button = styled.button`
@@ -48,6 +50,7 @@ export const Button = styled.button`
     font-size: 16px;
     margin-top: 20px;
     font-weight: bold;
+    max-width: 200px;
   }
 
   img {
@@ -69,8 +72,7 @@ export const Text = styled.p`
   @media (max-width: 600px) {
     font-size: 16px;
     line-height: 22px;
-
-  }  
+  }
 `;
 
 export const Break = styled.div`
@@ -83,4 +85,9 @@ export const Inner = styled.div`
   flex-direction: row;
   width: 100%;
   justify-content: center;
+
+  @media (max-width: 1000px) {
+    flex-direction: column;
+    align-items: center;
+  }
 `;
