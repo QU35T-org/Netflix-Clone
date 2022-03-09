@@ -5,7 +5,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://twitter.com/https:\/\/twitter.com\/QU35T\_TV" target="_blank">
-    <img alt="Twitter: https:\/\/twitter.com\/QU35T\_TV" src="https://img.shields.io/twitter/follow/https:\/\/twitter.com\/QU35T\_TV.svg?style=social" />
+    <img alt="Twitter: https:\/\/twitter.com\/QU35T\_TV" src="https://img.shields.io/twitter/follow/QU35T_TV?style=social" />
   </a>
 </p>
 
