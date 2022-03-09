@@ -15,20 +15,20 @@
 
 ## Install
 
-```sh
+```bash
 npm install
 ```
 
 ## Usage
 
-```sh
+```bash
 npm start
 ```
 
 ## Run tests
 
-```sh
-npm run test
+```bash
+npm test
 ```
 
 ## Author
