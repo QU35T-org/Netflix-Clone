@@ -1,5 +1,6 @@
 import React from 'react';
 import { Accordion } from '../components';
+import OptForm from '../components/optForm';
 import faqsData from '../fixtures/faqs.json';
 
 export function FaqsContainer() {
@@ -12,7 +13,17 @@ export function FaqsContainer() {
           <Accordion.Body>{item.body}</Accordion.Body>
         </Accordion.Item>
       ))}
-      <Accordion.Frame></Accordion.Frame>
+      <OptForm>
+        <OptForm.Text>
+          Prêt à regarder Netflix ? Saisissez votre adresse e-mail pour vous
+          abonner ou réactiver votre abonnement.
+        </OptForm.Text>
+        <OptForm.Break />
+        <OptForm.Inner>
+          <OptForm.Input placeholder="Adresse e-mail" />
+          <OptForm.Button>Commencer</OptForm.Button>
+        </OptForm.Inner>
+      </OptForm>
     </Accordion>
   );
 }

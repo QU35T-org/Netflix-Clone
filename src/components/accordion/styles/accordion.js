@@ -9,14 +9,14 @@ export const Inner = styled.div`
   display: flex;
   padding: 70px 45px;
   flex-direction: column;
-  max-width: 670px;
+  max-width: 860px;
   margin: auto;
 `;
 
 export const Item = styled.div`
   color: white;
   margin-bottom: 10px;
-  max-width: 670px;
+  max-width: 860px;
 
   &:first-of-type {
     margin-top: 3em;
