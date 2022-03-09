@@ -20,6 +20,7 @@ export const Input = styled.input`
   padding: 10px;
   height: 70px;
   box-sizing: border-box;
+  outline: none;
 
   @media (max-width: 1000px) {
     margin-top: 20px;
